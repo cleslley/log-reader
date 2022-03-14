@@ -14,6 +14,12 @@ Após processar o arquivo o sistema gera 3 relatórios em formato CSV:
 
 ## Executando o Projeto
 
+Antes de executar o projeto é necessário extrair o arquivo de logs utilizado para teste, na pasta ``src``:
+
+```bash
+unzip logs.zip
+```
+
 Na raíz do projeto execute:
 ```bash
 docker-compose build
