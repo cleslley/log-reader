@@ -14,7 +14,7 @@ Após processar o arquivo o sistema gera 3 relatórios em formato CSV:
 
 ## Executando o Projeto
 
-Antes de executar o projeto é necessário extrair o arquivo de logs utilizado para teste, na pasta ``src``:
+Antes de executar o projeto é necessário descompactar o arquivo ``logs.txt`` utilizado para teste, na pasta ``src``:
 
 ```bash
 unzip logs.zip
